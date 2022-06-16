@@ -60,7 +60,7 @@ hr {
 
 /* ********CLASS SELECTOR */
 .top-container {
-    background-color:#ff4646;
+    background-color:#90AACB;
      position: relative;
      padding-top: 100px;
     
@@ -162,6 +162,7 @@ padding-top: 50px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
     margin-top: 10%;
+   
   }
   
   .btn:hover {
@@ -188,13 +189,8 @@ padding-top: 50px;
 
     margin: 10px;
   }
-/* 
-  .coreskills {
-    margin: 0 auto 100px auto ;
-      width: 100%;
-  } */
 
   .top-desc{
-    color: #66bfbf;
+    color: #FF5D5D;
   }
   
