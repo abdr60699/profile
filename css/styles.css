@@ -135,6 +135,8 @@ padding-top: 50px;
     width: 25%;
     float: left;
     padding: 30px;
+    margin-bottom: auto;
+    border-bottom: 100%;
     
 }
  .coder-img {
@@ -186,9 +188,9 @@ padding-top: 50px;
 
     margin: 10px;
   }
-
+/* 
   .coreskills {
     margin: 0 auto 100px auto ;
       width: 100%;
-  }
+  } */
   
